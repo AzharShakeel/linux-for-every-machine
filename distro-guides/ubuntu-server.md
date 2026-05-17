@@ -1,5 +1,7 @@
 # Ubuntu Server (LTS) – Guide
 
+Ubuntu Server LTS is a strong default when you want broad compatibility, large community support, and a predictable long-term maintenance cycle. This guide gives a clean starting path for both home-lab and cloud deployments.
+
 ## When to use
 
 - You want a stable Linux server with long-term support.

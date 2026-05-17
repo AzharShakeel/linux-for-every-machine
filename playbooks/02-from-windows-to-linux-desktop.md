@@ -1,5 +1,7 @@
 # Playbook: Move from Windows to Linux Desktop
 
+This migration playbook is focused on reducing friction for Windows users: hardware checks first, clean install flow second, and everyday app readiness last. It is designed to get you productive on Linux quickly without overwhelming distro-level complexity.
+
 ## Goal
 Set up a stable daily Linux desktop with minimal friction.
 

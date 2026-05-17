@@ -1,5 +1,7 @@
 # AlmaLinux – Guide
 
+AlmaLinux is ideal when you want enterprise-style behavior with RHEL compatibility and stable release expectations. This guide provides a practical baseline for dependable server deployments.
+
 ## When to use
 
 - You want an enterprise-style, RHEL-compatible server OS.

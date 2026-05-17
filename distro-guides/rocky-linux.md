@@ -1,5 +1,7 @@
 # Rocky Linux – Guide
 
+Rocky Linux targets users who need long-term consistency, RHEL ecosystem compatibility, and production-grade stability. This guide helps you deploy a reliable server foundation with minimal guesswork.
+
 ## When to use
 
 - You need a reliable RHEL-compatible server distribution.

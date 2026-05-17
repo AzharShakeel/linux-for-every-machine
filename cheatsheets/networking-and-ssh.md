@@ -1,5 +1,7 @@
 # Networking and SSH Cheatsheet
 
+Essential network and SSH commands for troubleshooting connectivity, checking open services, and moving files securely between systems.
+
 ```bash
 ip a
 ip r

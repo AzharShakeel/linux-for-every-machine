@@ -1,5 +1,7 @@
 # Playbook: Revive an Old Laptop (2–4 GB RAM)
 
+This playbook is built for people with slow, aging laptops who need real performance gains without deep Linux expertise. Follow it end-to-end to turn a nearly unusable machine into a responsive daily system for browsing, study, and light work.
+
 ## Goal
 Make an old machine fast and usable again with a lightweight Linux distro.
 

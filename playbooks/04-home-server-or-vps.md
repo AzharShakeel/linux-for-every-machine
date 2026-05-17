@@ -1,5 +1,7 @@
 # Playbook: Home Server or VPS Setup
 
+This server playbook gives a security-first baseline for self-hosters and VPS users. The focus is practical hardening, predictable maintenance, and minimal attack surface so your services stay reliable long term.
+
 ## Goal
 Deploy a small, secure Linux server for personal services.
 

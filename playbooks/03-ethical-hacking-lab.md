@@ -1,5 +1,7 @@
 # Playbook: Build an Ethical Hacking Lab
 
+This guide emphasizes legal, isolated, and repeatable lab setup so you can learn security safely. It helps you avoid common beginner mistakes like mixing offensive tools with your primary daily environment.
+
 ## Goal
 Create a safe, isolated security-learning environment.
 

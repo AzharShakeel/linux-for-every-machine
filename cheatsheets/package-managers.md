@@ -1,5 +1,7 @@
 # Package Managers Cheatsheet
 
+Quick install and update commands across Debian/Ubuntu and RHEL-family systems. Use this when switching between distros and you need the right package-manager syntax instantly.
+
 ```bash
 # Debian/Ubuntu
 sudo apt update
